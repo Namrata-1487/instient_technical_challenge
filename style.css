@@ -1,0 +1,29 @@
+/* .heading {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}*/
+/* 
+.heading-1 {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 0px;
+    margin-top: 20px;
+} */
+
+
+/* .s1,
+.v1,
+.g1 {
+    position: relative;
+
+} */
+button{
+    border-radius: 8px;
+}
+.send{
+    height: 90%;
+}
